@@ -9,8 +9,8 @@ usage:
 
 1.put crashproc.py and xxx.dSYM and xxx.crash/xxx2.crash... into a same directory
 
-1.run crashproc.py in the dircetory
+2.run crashproc.py in the dircetory
 
-1.symbolized logs now at ./output
+3.symbolized logs now at ./output
 
 welcome mailto:gdier.zh@gmail.com for suggesting and bug report
